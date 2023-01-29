@@ -1,2 +1,2 @@
 # VNDataConverter
- Grabbing parsed VNs of many different formats and converting it into a universal format into a universal 
+ Grabbing parsed files of many different formats and converting it into a universal format to be used for training data
